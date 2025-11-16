@@ -1,8 +1,0 @@
-Name
-Python Smart App
-App ID
-WY4G63X7Y8
-Description
-Python Smart App
-API
-Full Results API
