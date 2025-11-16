@@ -1,0 +1,26 @@
+# R history and session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# RStudio project files
+*.Rproj
+
+# Output directories (figures, tables, results)
+out/
+*.png
+*.pdf
+*.csv
+
+# Temporary or backup files
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+
+# MacOS or Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini

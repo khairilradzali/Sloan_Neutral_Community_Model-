@@ -1,0 +1,1 @@
+act as a teacher teach me seaborn using python divide the tutorial in 3 sections : beginner , intermediate and advanced cover all the graphs we have in seaborn using seaborn default dataset : titanic
